@@ -16,7 +16,7 @@
   </ItemGroup>
 
   <ItemGroup>
-    <ProjectReference Include="..\CreditSuisse.IT.Console\CreditSuisse.IT.ConsoleApp.csproj" />
+    <ProjectReference Include="..\CreditSuisse.IT.ConsoleApp\CreditSuisse.IT.ConsoleApp.csproj" />
   </ItemGroup>
 
 </Project>

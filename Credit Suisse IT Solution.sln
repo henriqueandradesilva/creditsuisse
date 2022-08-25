@@ -3,7 +3,7 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.2.32630.192
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CreditSuisse.IT.ConsoleApp", "CreditSuisse.IT.Console\CreditSuisse.IT.ConsoleApp.csproj", "{466119DE-FCA6-4F5A-B993-4B142D66E559}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CreditSuisse.IT.ConsoleApp", "CreditSuisse.IT.ConsoleApp\CreditSuisse.IT.ConsoleApp.csproj", "{466119DE-FCA6-4F5A-B993-4B142D66E559}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CreditSuisse.IT.Tests", "CreditSuisse.IT.Tests\CreditSuisse.IT.Tests.csproj", "{A78B8767-7080-42D2-AB3D-6EE63400426E}"
 EndProject
